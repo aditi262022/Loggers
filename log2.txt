@@ -1,0 +1,7 @@
+ERROR:root:division by zero
+ERROR:root:invalid inputs leading to problem
+Traceback (most recent call last):
+  File "c:\Users\hp\OneDrive\Python full stack\Day-30\loggers\error2.py", line 9, in fun
+    return a/b
+           ~^~
+ZeroDivisionError: division by zero

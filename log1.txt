@@ -1,0 +1,2 @@
+time=2022-11-30 09:17:37,901,filename=format.py,functionname=fun
+time=2022-11-30 09:17:38,865,filename=format.py,functionname=fun

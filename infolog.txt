@@ -1,0 +1,3 @@
+main() is called
+fun() is called..!
+exception was handled.!

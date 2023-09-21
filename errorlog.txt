@@ -1,0 +1,6 @@
+exception occurred as given below
+Traceback (most recent call last):
+  File "c:\Users\hp\OneDrive\Python full stack\Day-30\loggers\customised.py", line 31, in fun
+    return a/b
+           ~^~
+ZeroDivisionError: division by zero
